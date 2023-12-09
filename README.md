@@ -21,6 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-mehedi-hasan-epu/)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/mehedihasanepu)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/mhasanepu)
+[![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=email)](mailto:mehedi.epu@vbd.com.bd)
 
 ## 🧑‍💻 Projects
 
