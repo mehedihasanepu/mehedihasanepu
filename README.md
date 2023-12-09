@@ -22,7 +22,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/mehedihasanepu)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/mhasanepu)
 
-## Projects
+## 🧑‍💻 Projects
 
 ### Project 1: Collab Learn [Live Link](https://collab-learn-d959c.web.app)
 - **Description:** Users can easily generate assignments within the platform. Users can access and complete assignments, submit a PDF link, and a brief note. Logged-in users can provide marks for any assignment.
