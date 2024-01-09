@@ -1,4 +1,4 @@
-![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/mehedihasanepu/mehedihasanepu/main/Purple%20Pink%20Modern%20Programmer%20Online%20Portfolio.png "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/mehedihasanepu/mehedihasanepu/main/Github%20cover.png "San Juan Mountains")
 
 ## Hi there, I'm Md. Mehedi Hasan 👋
 
